@@ -1,7 +1,7 @@
 
 **Project Overview**
 
-Krzysztof_Kolodziej_Java_Wroclaw - a Spring Boot application in Java 21 that processes orders and optimizes payment 
+Payment methods - a Spring Boot application in Java 21 that processes orders and optimizes payment 
 methods to maximize discounts and efficiently use available limits.
 
 **Features:**
